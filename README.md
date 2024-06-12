@@ -2,14 +2,14 @@
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
-### Welcome To My GitHub Profile !
+## Welcome To My GitHub Profile !
 
-<h2>🔍 Where to find me</h2>
+<h3>🔍 Where to find me</h3>
 <a href="https://t.me/xChChx">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="50" height="50"/>
 </a>
 
-<h2 align="left">👩‍💻  About me</h2>
+<h3 align="left">👩‍💻  About me</h3>
 
 <p align="left">I'm working on backend development, and I'm also interested in DevOps.
 
