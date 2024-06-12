@@ -10,7 +10,9 @@ Hi all ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 =================================================================================================================================
 
 
-My name is Christian.
+# My name is Christian.
+
+link here
 
 <a href="https://t.me/xChChx">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="60" height="60"/> 
@@ -24,11 +26,6 @@ My name is Christian.
 ###
 
 <p align="left">I'm working on backend development, and I'm also interested in DevOps.
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-###
 
 ### Skills
 
