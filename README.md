@@ -10,7 +10,6 @@
 My name is Christian.
 
 <a href="https://t.me/xChChx">
-  Link here
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="60" height="60"/> 
 </a>
 
