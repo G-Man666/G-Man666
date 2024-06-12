@@ -11,7 +11,10 @@ My name is Christian.
 
 <h2>🔍 Where to find me</h2>
 <a href="https://t.me/xChChx">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="50" height="50"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="50" height="50"/>
+</a>
+<a href="mailto:cernovkristian@gmail.com">
+  <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" width="50" height="50"/>
 </a>
 
 ###
