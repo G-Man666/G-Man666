@@ -1,13 +1,14 @@
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
+
+# Welcome To My GitHub Profile !
+
 <br clear="both">
 
 <div align="center">
   <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
-
-###
-
-# Hi all ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-My name is Christian.
 
 <h2>🔍 Where to find me</h2>
 <a href="https://t.me/xChChx">
