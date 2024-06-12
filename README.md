@@ -13,13 +13,9 @@ Hi all ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 My name is Christian.
 
 <a href="https://t.me/xChChx">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="20" height="20"/> Telegram
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="60" height="60"/> 
 </a>
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&"  />
-</div>
 
 ###
 
