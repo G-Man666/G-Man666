@@ -12,12 +12,9 @@ Hi all ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 
 My name is Christian.
 
-  </a>
-  <a href="https://t.me/xChChx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-</div>
-
+<a href="https://t.me/yourusername">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="20" height="20"/> Telegram
+</a>
 ###
 
 <div align="center">
