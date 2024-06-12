@@ -14,10 +14,6 @@ My name is Christian.
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="50" height="50"/>
 </a>
 
-<a href="mailto:cernovkristian@gmail.com">
-  <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" width="50" height="50"/>
-</a>
-
 ###
 
 <h2 align="left">👩‍💻  About me</h2>
