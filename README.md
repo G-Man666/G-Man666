@@ -9,11 +9,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="50" height="50"/>
 </a>
 
-###
-
 <h2 align="left">👩‍💻  About me</h2>
-
-###
 
 <p align="left">I'm working on backend development, and I'm also interested in DevOps.
 
